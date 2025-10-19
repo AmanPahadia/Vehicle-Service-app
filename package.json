@@ -1,0 +1,16 @@
+{
+  "name": "vehicle-service-app",
+  "version": "1.0.0",
+  "description": "Single page vehicle service form (Node + Express)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
